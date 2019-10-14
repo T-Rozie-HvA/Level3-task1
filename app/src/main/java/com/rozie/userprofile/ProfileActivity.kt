@@ -41,6 +41,4 @@ class ProfileActivity : AppCompatActivity() {
     companion object {
         const val PROFILE_EXTRA = "PROFILE_EXTRA"
     }
-
-
 }
